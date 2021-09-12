@@ -1,0 +1,20 @@
+body{
+ margin: 7% 24% 0% 29%;
+}
+.container{
+    border: 1px solid bisque;
+    padding: 43px;
+    text-align: center;
+    width: 35.5rem;
+    background-color: antiquewhite;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+
+}
+input{
+    padding: 10px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
