@@ -18,3 +18,12 @@ input{
     margin-left: 2%;
     margin-right: 2%;
 }
+.hero-ctn{
+    margin-top: 6px;
+}
+.ctn{
+    padding: 9px;
+    margin: 7px;
+    background: white;
+    color: #ad6f11;
+}
