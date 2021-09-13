@@ -57,7 +57,7 @@ class App extends Component {
            </div>
            <div className="hero-ctn">
                <button className="ctn" onClick={this.startTimer}>Start</button>
-               <button className="ctn" onClick={this.resetTimer}>Restart</button>
+               <button className="ctn" onClick={this.resetTimer}>Reset</button>
                <button className="ctn" onClick={this.stopTimer}>Stop</button>
 
 
